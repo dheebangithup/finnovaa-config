@@ -1,3 +1,4 @@
 {
-  "serverUrl": "https://finnovaabackend-production.up.railway.app"
+  "prodServerUrl": "https://finnovaabackend-production.up.railway.app",
+  "devServerUrl": "https://finnovaabackend-production.up.railway.app"
 }
